@@ -1,0 +1,158 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: #45b29a;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+
+
+
+}
+
+.top {
+    display: block;
+    background-color: #e0ebe8;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 580;
+
+
+}
+
+.navbar {
+    height: 100px;
+    background-color: #e0ebe8;
+   
+    
+}
+
+.navlink {
+
+    margin: 40px;
+    display: inline-block;
+    text-align: center  ;
+}
+
+.navbar a{
+    scroll-behavior: smooth;
+    text-decoration: none;
+    position: absolute;
+    
+}
+
+.mountain {
+    height: 40%;
+    width: 60%;
+    padding: 30px 0 0 0;
+
+
+
+}
+
+.bag1 {
+    width: 20%;
+    height: 30%;
+    position: absolute;
+    right: 50px;
+    top: 70px;
+}
+
+.bag2 {
+    width: 20%;
+    height: 30%;
+    position: absolute;
+    top: 250px;
+    left: 15px;
+}
+
+.top h1 {
+    font-size: 150px;
+    padding-top: 250px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+
+}
+
+.middle-container {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+
+.profile {
+    margin: 20px 0px;
+    line-height: 1.5;
+    margin-bottom: 100px;
+
+}
+
+.img-src {
+
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container {
+    text-align: center;
+    line-height: 1.8;
+    margin-top: 50px;
+    margin-bottom: 100px
+}
+
+.skill-row {
+
+    line-height: 1.5;
+    padding: 10px;
+}
+
+.middle-container h1 {
+    font-size: 50px;
+
+}
+
+.bottom-container h1 {
+    font-size: 50px;
+}
+
+.bottom-container p {
+    margin-bottom: 15px;
+}
+
+.contact-me a {
+    text-decoration: none;
+    background-color: #45b29a;
+    color: #e0ebe8;
+    margin: 1rem;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.link {
+    margin: 20px;
+}
+
+.footer-link {
+    text-decoration: none;
+    background-color: #45b29a;
+    color: #e0ebe8;
+    margin: 1rem;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.logo img {
+    height: 100px;
+    width: 100px;
+    margin-top: 50px;
+    padding: 25px;
+}
